@@ -41,6 +41,9 @@
 * エージェントは任意のタイミングで置ける（配置）
 * マップがすべて既知
 
+## 参考
 
+* 公式 "http://www.procon.gr.jp/"
+* 募集要項　"http://www.procon.gr.jp/wp-content/uploads//2020/04/2eddfc1dcddbd516b49effcad6cee2ed.pdf"
 
 
