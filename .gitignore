@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+
+#ignore folders
+*.vs
+/KosenProcon31/App
+/KosenProcon31/Intermediate
+
+#solusion files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
